@@ -1,4 +1,4 @@
-![Project Screenshot](./bankist.PNG)
+![Project Screenshot](./bankist_site.png)
 
 # bank-marketing-app
 
